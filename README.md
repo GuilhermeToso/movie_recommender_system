@@ -28,8 +28,6 @@ The **notebooks** directory contain the *data_analysis.ipynb* file, which descri
 The use of the application can be showed below:
 
 
-
-%%HTML
 <video width="920" height="600" autoplay loop>
   <source src="app.mp4" type="video/mp4">
 </video>
