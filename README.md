@@ -29,14 +29,11 @@ The use of the application can be showed below:
 
 
 
-```python
-
 %%HTML
 <video width="920" height="600" autoplay loop>
   <source src="app.mp4" type="video/mp4">
 </video>
 
-```
 
 
 <video width="920" height="600" autoplay loop>
@@ -45,7 +42,3 @@ The use of the application can be showed below:
 
 
 
-
-```python
-
-```
